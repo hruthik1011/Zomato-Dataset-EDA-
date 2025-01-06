@@ -1,4 +1,4 @@
-# Zomato-Dataset-EDA-
+# Zomato-Dataset-EDA
 This project focuses on performing Exploratory Data Analysis (EDA) on Zomato data to uncover insights about restaurant trends, ratings, cuisines, and customer preferences.
 
 Key Features
